@@ -13,8 +13,8 @@ body {
   width: 400px;
   padding: 25px 35px;
   position: absolute;
-  top: 40%;
-  left: 40%;
+  top: 10%;
+  left: 35%;
   transform: translate(-50% -50%);
   background: #fff;
   border-radius: 10px;
